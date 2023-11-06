@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **dhyaandk11@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: Instagram-dhyaan_kanoja </h3>
 <p align="left">
 </p>
 
