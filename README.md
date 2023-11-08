@@ -27,7 +27,7 @@
 
 - 👯 I’m looking to collaborate on **Instagram**
 
-- 🤝 I’m looking for help with **pytorch** , **MySQL**
+- 🤝 I’m looking for help with **Pytorch** , **MySQL**
 
 - 📫 How to reach me **dhyaandk11@gmail.com**
 
