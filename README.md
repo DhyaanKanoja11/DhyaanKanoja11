@@ -23,15 +23,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Tuples-Projects in Python**
+- 🔭 I’m currently working on **Tuple-Dictionary Projects in Python**
 
 - 👯 I’m looking to collaborate on **Instagram**
 
-- 🤝 I’m looking for help with **Pytorch** , **MySQL**
+- 🤝 I’m looking for help with **Pytorch*s* , **MySQL** ,**JS**
 
 - 📫 How to reach me **dhyaandk11@gmail.com**
 
-<h3 align="left">Connect with me: Instagram-dhyaan_kanoja </h3>
+<h3 align="left">Connect with me: IG: dhyaan_kanoja </h3>
 <p align="left">
 </p>
 
