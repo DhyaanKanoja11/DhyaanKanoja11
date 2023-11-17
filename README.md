@@ -23,9 +23,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Tuple-Dictionary Projects in Python**
+- 🔭 I’m currently working on **Tuple-Dictionary Projects in Python** and **Python Notes**
 
-- 👯 I’m looking to collaborate on **Instagram**
+- 👯 I’m looking to collaborate on **Instagram** or **Medium**
 
 - 🤝 I’m looking for help with **Pytorch** , **MySQL** ,**JS**
 
