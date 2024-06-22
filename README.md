@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **dhyaandk11@gmail.com**
 <a href="https://app.daily.dev/unknown_user_404"><img src="https://api.daily.dev/devcards/v2/YargYft2ZYtQIQgVeM1fM.png?r=x4j&type=wide" width="652" alt="Dhyaan Kanoja's Dev Card"/></a>
-<a href="https://tryhackme.com/badge/1626253"></sa>
+<a href="https://tryhackme.com/badge/1626253"></a>
 <h3 align="left">Connect with me: IG: dhyaan_kanoja </h3>
 <p align="left">
 </p>
