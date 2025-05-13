@@ -17,7 +17,7 @@
 <h1 align="center">Hi 👋, I'm Dhyaan Kanoja</h1>
 <h3 align="center">A passionate Student learning Python and Frontend</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhyaankanoja11&label=Profile%20views&color=0e75b6&style=flat" alt="dhyaankanoja11" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DhyaanKanoja11&label=Profile%20views&color=0e75b6&style=flat" alt="dhyaankanoja11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhyaankanoja11" alt="dhyaankanoja11" /></a> </p>
 
@@ -28,6 +28,10 @@
 - 👯 I’m looking to collaborate on **Instagram** or **Medium**
 
 - 🤝 I’m looking for help with **Pytorch** , **MySQL** ,**JS**
+
+## 📝 My Technical Blogs
+- [Using MySQL Connector Python](https://medium.com/@dhyaandk11/using-mysql-connector-python-for-mysql-database-management-in-python-b8e1c44a18fc)
+- [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@dhyaandk11)
 
 - 📫 How to reach me **dhyaandk11@gmail.com**
 <a href="https://app.daily.dev/unknown_user_404"><img src="https://api.daily.dev/devcards/v2/YargYft2ZYtQIQgVeM1fM.png?r=x4j&type=wide" width="652" alt="Dhyaan Kanoja's Dev Card"/></a>
