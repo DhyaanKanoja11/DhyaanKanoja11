@@ -62,7 +62,7 @@ If the work lacks intent or discipline, I’m not interested.
 
 ## 🌐 Links
 
-- **LinkedIn:** https://www.linkedin.com/in/dhyaan-kanoja-6568a3268/  
+- **LinkedIn:** https://www.linkedin.com/in/dhyaan-kanoja11/  
 - **Medium:** https://medium.com/@dhyaandk11  
 - **Email:** dhyaandk11@gmail.com  
 
