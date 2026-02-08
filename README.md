@@ -1,58 +1,65 @@
-# Hi, I’m Dhyaan Dharmesh Kanoja 👋
+# Dhyaan Dharmesh Kanoja
 
-**Python Developer • Backend & Systems Learner • Cybersecurity Enthusiast**
+**Python • Backend Systems • Cybersecurity**
 
-I am a student developer focused on building strong fundamentals in **Python, backend systems, and cybersecurity**.  
-I value depth, clarity, and learning by doing , not chasing stacks or trends.
+I focus on understanding systems from the inside out.  
+I care more about correctness, structure, and fundamentals than trends or buzzwords.
 
----
-
-## 🔍 About Me
-
-- Strong interest in how systems work internally  
-- Experience with Python-based projects and MySQL-backed applications  
-- Hands-on cybersecurity learning through labs and tooling  
-- Active technical writer to reinforce core concepts  
-- Prefer clean logic and documentation over flashy demos  
+I build things to learn how they actually work.
 
 ---
 
-## 🎯 Current Focus
+## Focus Areas
 
-- Python (data structures, tooling, backend logic)
-- MySQL integration and database-driven systems
-- Cybersecurity home lab  
-  *(Kali Linux, Metasploitable 2, Nmap, Wireshark, Burp basics)*
-- Writing technical blogs to clarify fundamentals
+- Python for backend logic and tooling
+- Database-driven systems using MySQL
+- Linux-based systems and internals
+- Practical cybersecurity through hands-on labs
+- Technical writing to solidify fundamentals
 
 ---
 
-## 📝 Technical Writing
+## What I Actually Do
+
+- Build Python projects with clear logic and documentation
+- Work with MySQL-backed applications
+- Maintain a personal cybersecurity home lab  
+  *(Kali Linux, Metasploitable 2, Nmap, Wireshark, Burp Suite basics)*
+- Write technical articles to explain concepts clearly, not to chase engagement
+
+---
+
+## Technical Writing
+
+I write to understand, not to perform.
 
 - **Using MySQL Connector Python**  
   https://medium.com/@dhyaandk11/using-mysql-connector-python-for-mysql-database-management-in-python-b8e1c44a18fc
 
-- Medium profile:  
+- **Building a Cybersecurity Home Lab (Beginner Guide)**  
+  https://medium.com/@dhyaandk11/how-to-create-a-cybersecurity-home-lab-a-beginner-tutorial-for-students-fa86f1f053cd
+
+- Medium Profile  
   https://medium.com/@dhyaandk11
 
-I write to understand concepts better — not to farm engagement.
+---
+
+## Open to Collaboration
+
+Only on work that has intent and discipline.
+
+- Python-based utilities or learning projects
+- Backend or database-heavy systems
+- Cybersecurity labs or small tools
+- Serious documentation or technical writing
+
+If it’s rushed, shallow, or trend-driven, I’ll pass.
 
 ---
 
-## 🤝 Open to Collaborate On
+## Tools & Technologies
 
-- Python-based learning or utility projects  
-- Backend or database-heavy applications  
-- Cybersecurity labs or small tools  
-- Serious documentation or technical writing  
-
-If the work lacks intent or discipline, I’m not interested.
-
----
-
-## 🛠️ Languages & Tools
-
-- **Languages:** Python, JavaScript  
+- **Languages:** Python
 - **Databases:** MySQL  
 - **Web:** HTML, CSS  
 - **Systems:** Linux  
@@ -60,12 +67,12 @@ If the work lacks intent or discipline, I’m not interested.
 
 ---
 
-## 🌐 Links
+## Links
 
-- **LinkedIn:** https://www.linkedin.com/in/dhyaan-kanoja11/  
-- **Medium:** https://medium.com/@dhyaandk11  
-- **Email:** dhyaandk11@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/dhyaan-kanoja11/
+- **Medium:** https://medium.com/@dhyaandk11
+- **Email:** dhyaandk11@gmail.com
 
 ---
 
-*Learning deliberately. Building with intent. No shortcuts.*
+*Learn deliberately. Build with intent. Skip shortcuts.*
