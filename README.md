@@ -2,6 +2,10 @@
 
 **Python • Backend Systems • Cybersecurity**
 
+![Profile Views](https://komarev.com/ghpvc/?username=DhyaanKanoja11&label=Profile%20Views&color=0e75b6&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/DhyaanKanoja11?label=Followers&style=flat)
+![GitHub Stars](https://img.shields.io/github/stars/DhyaanKanoja11?label=Total%20Stars&style=flat)
+
 I focus on understanding systems from the inside out.  
 I care more about correctness, structure, and fundamentals than trends or buzzwords.
 
@@ -26,6 +30,16 @@ I build things to learn how they actually work.
 - Maintain a personal cybersecurity home lab  
   *(Kali Linux, Metasploitable 2, Nmap, Wireshark, Burp Suite basics)*
 - Write technical articles to explain concepts clearly, not to chase engagement
+
+---
+
+## GitHub Activity & Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhyaanKanoja11&show_icons=true&theme=transparent&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhyaanKanoja11&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhyaanKanoja11&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
@@ -59,7 +73,7 @@ If it’s rushed, shallow, or trend-driven, I’ll pass.
 
 ## Tools & Technologies
 
-- **Languages:** Python
+- **Languages:** Python, JavaScript  
 - **Databases:** MySQL  
 - **Web:** HTML, CSS  
 - **Systems:** Linux  
