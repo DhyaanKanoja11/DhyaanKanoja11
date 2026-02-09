@@ -35,11 +35,7 @@ I build things to learn how they actually work.
 
 ## GitHub Activity & Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhyaanKanoja11&show_icons=true&theme=transparent&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhyaanKanoja11&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhyaanKanoja11&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
