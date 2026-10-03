@@ -14,6 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhyaan-kanoja11/)
 [![Medium](https://img.shields.io/badge/Medium-7c3aed?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dhyaandk11)
 [![Email](https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhyaandk11@gmail.com)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dhyaan11.hashnode.dev/)
 
 </div>
 
